@@ -1,0 +1,4 @@
+- # Sobre mim
+- Olá,meu nome é LAYZA DIAS
+- Sou de QUINTA DO SOL,PARANÁ!
+- Sou aluna da disciplina de PENSAMENTO COMPUTACIONAL!
